@@ -43,7 +43,7 @@ def manejoEquipaje():
              bultoLiviano,
              "Bulto mayor peso ",
              bultoPesado,
-             "Peso promedio "
+             "Peso promedio ",
              pesoPromedio]
             ]
 
