@@ -12,4 +12,4 @@ function calcularPasaje(distancia, estancia) {
     return precioPasaje;
   }
 }
-console.log(calcularPasaje(1100, 8));
+console.log(calcularPasaje(1000, 7));
